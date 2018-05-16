@@ -1,0 +1,6 @@
+.qmake.stash
+Makefile
+mouser
+moc_*
+*.o
+qrc_*
